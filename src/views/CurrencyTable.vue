@@ -68,5 +68,4 @@ export default {
 .table-row.row_green td{
   background-color: #16db7f9c;
 }
-// :class="[index <= '4' ? 'row_blue' : '', currency.symbol === 'usdt' ? 'row_green' : '']"
 </style>
