@@ -6,16 +6,13 @@
 
 <style lang="scss">
 #app {
-  font-family: 'Rubik', sans-serif;;
+  font-family: 'Rubik', sans-serif;
+  box-sizing: border-box;
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
-}
-
-body {
-  background-color: $bodyColor;
 }
 </style>
